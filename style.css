@@ -1,0 +1,21 @@
+
+
+body{
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+#Words{
+    
+}
+
+
+#about{
+    background-color: #0b0d11;
+    background-image: #0b0d11;
+}
+section{
+    padding-top: 5rem;
+}
